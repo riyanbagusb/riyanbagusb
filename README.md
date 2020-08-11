@@ -23,7 +23,7 @@ I am a fresh graduate who is passionate about web development and just starting 
 	* [Twitter](https://twitter.com/riyan_bagusb)
 	* [Instagram](https://instagram.com/riyan_bagusb)
 
-* 📃 View My [Portfolio](https://github.com/riyanbagusb/my-portfolio)
+* 📃 View My [Project/Portfolio](https://github.com/riyanbagusb/my-portfolio)
 </samp>
 
 
