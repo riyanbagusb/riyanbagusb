@@ -5,6 +5,7 @@
 I am a fresh graduate who is passionate about web development and just starting to explore it!
 
 <samp>
+
 - 🔭 I’m currently a job seeker
 
 - 📝 Programming language and framework that i use:
