@@ -1,4 +1,4 @@
-![Profile Name Banner](/images/banner/banner.png)
+![Profile Name Banner](https://github.com/riyanbagusb/riyanbagusb/raw/master/images/banner/banner.png)
 
 ### Hi! I’m Bagus 👋
 
