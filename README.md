@@ -4,6 +4,7 @@
 
 I am a fresh graduate who is passionate about web development and just starting to explore it!
 
+<samp>
 - 🔭 I’m currently a job seeker
 
 - 📝 Programming language and framework that i use:
@@ -22,7 +23,7 @@ I am a fresh graduate who is passionate about web development and just starting 
 	* [Instagram](https://instagram.com/riyan_bagusb)
 
 * 📃 View My [Portfolio](https://github.com/riyanbagusb/my-portfolio)
-
+</samp>
 
 
 <!--
