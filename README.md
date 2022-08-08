@@ -20,7 +20,6 @@ I am a fresh graduate who is passionate about web development and just starting 
 * 📧 Contact Me:
 	* [LinkedIn](https://www.linkedin.com/in/bagus-budhi-riyanto)
 	* [Email](mailto:riyanbagusb@gmail.com)
-	* [Twitter](https://twitter.com/riyan_bagusb)
 	* [Instagram](https://instagram.com/riyan_bagusb)
 
 * 📃 View My [Project/Portfolio](https://github.com/riyanbagusb/my-portfolio)
